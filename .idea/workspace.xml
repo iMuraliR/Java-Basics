@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70f39595-7bc3-4995-b776-1b56bd03a32b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpCalci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Greeting">
+  <component name="RunManager" selected="Application.SimpCalci">
     <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greeting" />
       <module name="untitled" />
@@ -50,8 +52,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpCalci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpCalci" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleInterest" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpCalci" />
+        <item itemvalue="Application.SimpleInterest" />
         <item itemvalue="Application.Greeting" />
         <item itemvalue="Application.OddEven" />
       </list>
